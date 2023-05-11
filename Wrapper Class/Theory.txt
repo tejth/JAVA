@@ -1,0 +1,9 @@
+WRAPPER CLASS -> The wrapper class is a class which is use to convert primitive
+datatypes to objects and vice-versa.
+
+There are two methods in wrapper class:
+1. Autoboxing -> This technique is used to convert primitive 
+data types to objects.
+2. Unboxing -> which is used to convert objects into primitive datatypes.
+
+There are 8 wrapper classes defined in java.lang package.
